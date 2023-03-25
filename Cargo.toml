@@ -14,4 +14,4 @@ byteorder = { version = "1", default-features = false }
 embedded-hal = "0.2.7"
 
 [dev-dependencies]
-linux-embedded-hal = "0.3.2"
+linux-embedded-hal = "0.1.1"
